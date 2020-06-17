@@ -13,9 +13,207 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-17T19:54:56.211+07:00
-  initializedAtString: 2020-06-17T19:53:23.224+07:00
+  lastUpdatedAtString: 2020-06-17T20:14:22.414+07:00
+  initializedAtString: 2020-06-17T20:14:22.130+07:00
   log:
+  - commitID: 65461982781193732425ebab474eb2b1bbe5bd66
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: 
+    timeString: 2020-06-17T20:14:20.000+07:00
+    commitTimeString: 2020-06-17T20:14:20.000+07:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\TankBehaviorScripts.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
+      projectPath: Assets\Scripts\TankBehaviorScripts.cs
+      originalPath: Assets\Scenes\TankBehaviorScripts.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\TankBehaviorScripts.cs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs.meta
+      projectPath: Assets\Scripts\TankBehaviorScripts.cs.meta
+      originalPath: Assets\Scenes\TankBehaviorScripts.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Tank.sln
+      fullPath: D:\Kuliah\simulasi\Tank\Tank.sln
+      projectPath: Tank.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c02283f112f69c60cd23cadfd0cd97a880744a46
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: 
+    timeString: 2020-06-17T19:55:20.000+07:00
+    commitTimeString: 2020-06-17T19:55:20.000+07:00
+    changes:
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5556e6cca28ffcbf0630ced4415e93dede4e5ed5
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: 
+    timeString: 2020-06-17T19:55:09.000+07:00
+    commitTimeString: 2020-06-17T19:55:09.000+07:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 22bc58e674b85fde8891a0eb8835d7a6198e2fd1
     mergeA: 
     mergeB: 
