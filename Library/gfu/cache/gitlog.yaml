@@ -1,0 +1,1712 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-06-17T19:53:41.856+07:00
+  initializedAtString: 2020-06-17T19:53:23.224+07:00
+  log:
+  - commitID: 0c9ab3435ec71f8b1d1a2b573927d4cbc24adb86
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: initial
+    timeString: 2020-06-17T19:53:40.000+07:00
+    commitTimeString: 2020-06-17T19:53:40.000+07:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: aa3836b3443bc0f243953ac53b292b1de11cf271
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: Initial
+    description: Initial
+    timeString: 2020-06-17T19:53:22.000+07:00
+    commitTimeString: 2020-06-17T19:53:22.000+07:00
+    changes:
+    - path: .vs\Tank\v15\.suo
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\.suo
+      projectPath: .vs\Tank\v15\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\db.lock
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\db.lock
+      projectPath: .vs\Tank\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: ff6fad8a1623fa55cc9b2099b6bd73c3baa2ffc4
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: tank
+    description: 
+    timeString: 2020-06-17T19:31:16.000+07:00
+    commitTimeString: 2020-06-17T19:31:16.000+07:00
+    changes:
+    - path: Assets\3D.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D.meta
+      projectPath: Assets\3D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54.meta
+      projectPath: Assets\3D\T54.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\Materials.meta
+      projectPath: Assets\3D\T54\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\Materials\T-54.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\Materials\T-54.mat
+      projectPath: Assets\3D\T54\Materials\T-54.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\Materials\T-54.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\Materials\T-54.mat.meta
+      projectPath: Assets\3D\T54\Materials\T-54.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\t-54.obj
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\t-54.obj
+      projectPath: Assets\3D\T54\t-54.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\t-54.obj.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\t-54.obj.meta
+      projectPath: Assets\3D\T54\t-54.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures.meta
+      projectPath: Assets\3D\T54\textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch).meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch).meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch).meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\10.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\10.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\10.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\10.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\Materials.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials\T-54.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\Materials\T-54.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials\T-54.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials\T-54.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\Materials\T-54.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\Materials\T-54.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\1.
+        Berezka (birch)\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\1. Berezka (birch)\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\11.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\11.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\11.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\11.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\11.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\11.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\11.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\11.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\11.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\11.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\11.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\11.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_CM.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54_CM.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_CM.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_CM.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54_CM.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_CM.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_crash.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54_crash.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_crash.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_crash.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\Materials\T-54_crash.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\Materials\T-54_crash.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_CM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_CM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_CM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_CM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_CM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_CM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_NM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_SM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_SM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_SM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_SM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_SM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_SM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\2.
+        WWII\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\2. WWII\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\12.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\12.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\12.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\12.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\12.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\12.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\3.
+        Green and dusty\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\3. Green and dusty\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\13.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\13.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\13.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\13.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\13.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\13.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\Materials.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\Materials\T-54.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\Materials\T-54.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54_CM.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\Materials\T-54_CM.mat
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54_CM.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54_CM.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\Materials\T-54_CM.mat.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\Materials\T-54_CM.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_CM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54_CM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_CM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_CM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54_CM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_CM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\4.
+        UN\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\4. UN\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\14.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\14.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\14.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\14.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\14.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\14.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54_NM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\5.
+        Steppe\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\5. Steppe\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\15.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\15.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\15.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\15.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\15.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\15.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54_NM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\6.
+        Steppe New\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\6. Steppe New\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\16.png
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\16.png
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\16.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\16.png.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\16.png.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\16.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54_NM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_SM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54_SM.dds
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_SM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_SM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\1. Textures Mods\7.
+        Bastard\T-54_SM.dds.meta
+      projectPath: Assets\3D\T54\textures\1. Textures Mods\7. Bastard\T-54_SM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54.dds
+      projectPath: Assets\3D\T54\textures\T-54.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54.dds.meta
+      projectPath: Assets\3D\T54\textures\T-54.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_CM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_CM.dds
+      projectPath: Assets\3D\T54\textures\T-54_CM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_CM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_CM.dds.meta
+      projectPath: Assets\3D\T54\textures\T-54_CM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_NM.dds
+      projectPath: Assets\3D\T54\textures\T-54_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\T-54_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_crash.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_crash.dds
+      projectPath: Assets\3D\T54\textures\T-54_crash.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\T-54_crash.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\T-54_crash.dds.meta
+      projectPath: Assets\3D\T54\textures\T-54_crash.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks.meta
+      projectPath: Assets\3D\T54\textures\Tracks.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials.meta
+      projectPath: Assets\3D\T54\textures\Tracks\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat.meta
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat.meta
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track_NM.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat.meta
+      projectPath: Assets\3D\T54\textures\Tracks\Materials\T-54_track_SM.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track.dds
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track.dds.meta
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track_NM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track_NM.dds
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track_NM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track_NM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track_NM.dds.meta
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track_NM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track_SM.dds
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track_SM.dds
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track_SM.dds
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\T54\textures\Tracks\T-54_track_SM.dds.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\T54\textures\Tracks\T-54_track_SM.dds.meta
+      projectPath: Assets\3D\T54\textures\Tracks\T-54_track_SM.dds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell.meta
+      projectPath: Assets\3D\Tank Shell.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Readme.txt
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Readme.txt
+      projectPath: Assets\3D\Tank Shell\Readme.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Readme.txt.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Readme.txt.meta
+      projectPath: Assets\3D\Tank Shell\Readme.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.blend
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.blend
+      projectPath: Assets\3D\Tank Shell\Tank shell.blend
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.blend.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.blend.meta
+      projectPath: Assets\3D\Tank Shell\Tank shell.blend.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.mtl
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.mtl
+      projectPath: Assets\3D\Tank Shell\Tank shell.mtl
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.mtl.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.mtl.meta
+      projectPath: Assets\3D\Tank Shell\Tank shell.mtl.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.obj
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.obj
+      projectPath: Assets\3D\Tank Shell\Tank shell.obj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3D\Tank Shell\Tank shell.obj.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\3D\Tank Shell\Tank shell.obj.meta
+      projectPath: Assets\3D\Tank Shell\Tank shell.obj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Tanah.mat
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Materials\Tanah.mat
+      projectPath: Assets\Materials\Tanah.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Tanah.mat.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Materials\Tanah.mat.meta
+      projectPath: Assets\Materials\Tanah.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\t-54.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs\t-54.prefab
+      projectPath: Assets\Prefabs\t-54.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\t-54.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs\t-54.prefab.meta
+      projectPath: Assets\Prefabs\t-54.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TankBehaviorScripts.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs
+      projectPath: Assets\Scenes\TankBehaviorScripts.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TankBehaviorScripts.cs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs.meta
+      projectPath: Assets\Scenes\TankBehaviorScripts.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia.meta
+      projectPath: Assets\Tank Asset Multimedia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Huge.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Large.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Middle.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Explosion_Small.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Huge.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Large.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Middle.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Mini.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg.meta
+      projectPath: Assets\Tank Asset Multimedia\Audio\Fire_Small.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Explosion.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Explosion.meta
+      projectPath: Assets\Tank Asset Multimedia\Explosion.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      projectPath: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Destroyed_01.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Destroyed_02.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Huge.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Large.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Middle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Explosion_Small.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Impact_01.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Impact_02.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_3way.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Huge.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Large.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Middle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Mini.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\MuzzleFire_Small.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Ricochet_01.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Ricochet_02.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Trouble_01.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab.meta
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab.meta
+      projectPath: Assets\Tank Asset Multimedia\Prefabs\Trouble_02.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
