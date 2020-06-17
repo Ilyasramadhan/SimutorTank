@@ -386,26 +386,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1936951281 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3101828124141255674, guid: 57a95978c46cfd945b2336310130f681,
-    type: 3}
-  m_PrefabInstance: {fileID: 240780504746100672}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1936951283
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936951281}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6fef83b8a4aba6840946a127cfa152d1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  kecepatanRotasi: 20
-  selongsong: {fileID: 4708725017966006400}
 --- !u!1001 &240780504746100672
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -473,16 +453,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4760213423703250752, guid: 57a95978c46cfd945b2336310130f681,
-        type: 3}
-      propertyPath: m_Name
-      value: Selongsong
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57a95978c46cfd945b2336310130f681, type: 3}
---- !u!1 &4708725017966006400 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4760213423703250752, guid: 57a95978c46cfd945b2336310130f681,
-    type: 3}
-  m_PrefabInstance: {fileID: 240780504746100672}
-  m_PrefabAsset: {fileID: 0}
