@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GrakPeluruScripts.cs" />
     <Compile Include="Assets\Scripts\TankBehaviorScripts.cs" />
     <None Include="Assets\3D\Tank Shell\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">

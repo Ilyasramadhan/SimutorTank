@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 508, y: 494}
+  m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 118
+  controlID: 136
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 77
+  controlID: 137
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 56
+  controlID: 138
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_ExpandedIDs: 5efbffff7efbffff8cfbffff8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -301,9 +301,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.475234, y: 7.835946, z: -0.39971095}
+    m_Target: {x: -1.6134087, y: 6.08906, z: 14.818351}
     speed: 2
-    m_Value: {x: 7.475234, y: 7.835946, z: -0.39971095}
+    m_Value: {x: -1.6134087, y: 6.08906, z: 14.818351}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -332,17 +332,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.1296079, y: 0.42483705, z: -0.061602864, w: -0.8938253}
+    m_Target: {x: 0.28286454, y: -0.61456186, z: 0.25110966, w: 0.69227695}
     speed: 2
-    m_Value: {x: -0.12960768, y: 0.42483634, z: -0.06160276, w: -0.8938238}
+    m_Value: {x: 0.28286424, y: -0.6145612, z: 0.2511094, w: 0.69227624}
   m_Size:
-    m_Target: 26.109467
+    m_Target: 22.685917
     speed: 2
-    m_Value: 26.109467
+    m_Value: 22.685917
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -408,8 +408,8 @@ MonoBehaviour:
     y: 459
     width: 1192
     height: 272
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 232, y: 272}
+  m_MaxSize: {x: 10002, y: 10022}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 11}
@@ -482,20 +482,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefabs
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 16
   m_LastFolders:
-  - Assets
-  m_LastFoldersGridSize: -1
+  - Assets/Prefabs
+  m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Kuliah\simulasi\Tank
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b6290000
-    m_LastClickedID: 10678
-    m_ExpandedIDs: 00000000b629000000ca9a3b
+    scrollPos: {x: 0, y: 23}
+    m_SelectedIDs: 862b0000
+    m_LastClickedID: 11142
+    m_ExpandedIDs: 00000000b6290000fa2a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,7 +576,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 16
   m_DirectoriesAreaWidth: 200
 --- !u!114 &13
 MonoBehaviour:
@@ -669,15 +669,15 @@ MonoBehaviour:
     y: 0
     width: 344
     height: 731
-  m_MinSize: {x: 102, y: 122}
+  m_MinSize: {x: 277, y: 72}
   m_MaxSize: {x: 4002, y: 4022}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
   - {fileID: 18}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -734,10 +734,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1194
-    y: 92
+    x: 1192
+    y: 73.6
     width: 342
-    height: 710
+    height: 712
   m_ViewDataDictionary: {fileID: 0}
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
@@ -775,9 +775,9 @@ MonoBehaviour:
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 0
+  currentStatusEntriesHasUpdate: 1
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 1
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -917,8 +917,8 @@ MonoBehaviour:
     remoteBranches: []
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
-    currentLocksHasUpdate: 0
+    currentStatusEntriesHasUpdate: 1
+    currentLocksHasUpdate: 1
     commitBody: 
     commitMessage: initial
     currentBranch: '[master]'
@@ -927,33 +927,12 @@ MonoBehaviour:
       assets:
         keys:
         - 00000000000000001000000000000000
-        - a2e3ab86c78783046b878d10bda5a37f
         - 1682da318c832c44ea99c938693bc296
         - 6fef83b8a4aba6840946a127cfa152d1
-        - 00000000000000009000000000000000
-        - 0000000000000000a100000000000000
         values:
         - path: Assets
           label: Assets
           level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Scenes
-          label: Scenes
-          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -991,7 +970,7 @@ MonoBehaviour:
           label: TankBehaviorScripts.cs
           level: 2
           isFolder: 0
-          isContainer: 1
+          isContainer: 0
           isCollapsed: 0
           isHidden: 0
           isActive: 0
@@ -1003,48 +982,16 @@ MonoBehaviour:
             fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
             projectPath: Assets\Scripts\TankBehaviorScripts.cs
             originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: ProjectSettings\QualitySettings.asset
-          label: QualitySettings.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\QualitySettings.asset
-            fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\QualitySettings.asset
-            projectPath: ProjectSettings\QualitySettings.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: ProjectSettings\UnityConnectSettings.asset
-          label: UnityConnectSettings.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\UnityConnectSettings.asset
-            fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\UnityConnectSettings.asset
-            projectPath: ProjectSettings\UnityConnectSettings.asset
-            originalPath: 
             indexStatus: 0
             workTreeStatus: 3
       folders:
         keys:
+        - .vs
+        - .vs\Tank
+        - .vs\Tank\v15
+        - .vs\Tank\v15\Server
+        - .vs\Tank\v15\Server\sqlite3
         - Assets
-        - Assets\Scenes
         - Assets\Scripts
         - Library
         - Library\gfu
@@ -1054,13 +1001,13 @@ MonoBehaviour:
         - Library\ScriptAssemblies
         - Library\StateCache
         - Library\StateCache\Hierarchy
-        - Library\StateCache\SceneView
-        - ProjectSettings
+        - obj
+        - obj\Debug
         - Temp
         - Temp\ProcessJobs
         values:
-        - path: Assets
-          label: Assets
+        - path: .vs
+          label: .vs
           level: 0
           isFolder: 1
           isContainer: 0
@@ -1077,9 +1024,81 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Assets\Scenes
-          label: Scenes
+        - path: .vs\Tank
+          label: Tank
           level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs\Tank\v15
+          label: v15
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs\Tank\v15\Server
+          label: Server
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs\Tank\v15\Server\sqlite3
+          label: sqlite3
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets
+          label: Assets
+          level: 0
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -1118,7 +1137,7 @@ MonoBehaviour:
           level: 0
           isFolder: 1
           isContainer: 0
-          isCollapsed: 0
+          isCollapsed: 1
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
@@ -1137,7 +1156,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1155,7 +1174,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1173,7 +1192,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1191,7 +1210,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1209,7 +1228,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1227,7 +1246,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1245,7 +1264,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1257,9 +1276,9 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: Library\StateCache\SceneView
-          label: SceneView
-          level: 2
+        - path: obj
+          label: obj
+          level: 0
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -1275,9 +1294,9 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
-        - path: ProjectSettings
-          label: ProjectSettings
-          level: 0
+        - path: obj\Debug
+          label: Debug
+          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -1298,7 +1317,7 @@ MonoBehaviour:
           level: 0
           isFolder: 1
           isContainer: 0
-          isCollapsed: 0
+          isCollapsed: 1
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
@@ -1317,7 +1336,7 @@ MonoBehaviour:
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
-          isHidden: 0
+          isHidden: 1
           isActive: 0
           treeIsCheckable: 1
           checkState: 0
@@ -1357,9 +1376,63 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Assembly-CSharp.csproj
-        label: Assembly-CSharp.csproj
+      - path: .vs
+        label: .vs
         level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs\Tank
+        label: Tank
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs\Tank\v15
+        label: v15
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs\Tank\v15\.suo
+        label: .suo
+        level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -1369,9 +1442,81 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Assembly-CSharp.csproj
-          fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp.csproj
-          projectPath: Assembly-CSharp.csproj
+          path: .vs\Tank\v15\.suo
+          fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\.suo
+          projectPath: .vs\Tank\v15\.suo
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: .vs\Tank\v15\Server
+        label: Server
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs\Tank\v15\Server\sqlite3
+        label: sqlite3
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+        label: storage.ide-shm
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+          fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-shm
+          projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+        label: storage.ide-wal
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+          fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-wal
+          projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1393,60 +1538,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Assets\Scenes
-        label: Scenes
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Scenes\TankBehaviorScripts.cs
-        label: TankBehaviorScripts.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 1
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\TankBehaviorScripts.cs
-          fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs
-          projectPath: Assets\Scenes\TankBehaviorScripts.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\Scenes\TankBehaviorScripts.cs.meta
-        label: TankBehaviorScripts.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 1
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\TankBehaviorScripts.cs.meta
-          fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs.meta
-          projectPath: Assets\Scenes\TankBehaviorScripts.cs.meta
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
       - path: Assets\Scripts
         label: Scripts
         level: 1
@@ -1469,7 +1560,7 @@ MonoBehaviour:
         label: TankBehaviorScripts.cs
         level: 2
         isFolder: 0
-        isContainer: 1
+        isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
@@ -1481,32 +1572,14 @@ MonoBehaviour:
           fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
           projectPath: Assets\Scripts\TankBehaviorScripts.cs
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Scripts\TankBehaviorScripts.cs.meta
-        label: TankBehaviorScripts.cs.meta
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scripts\TankBehaviorScripts.cs.meta
-          fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs.meta
-          projectPath: Assets\Scripts\TankBehaviorScripts.cs.meta
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library
         label: Library
         level: 0
         isFolder: 1
         isContainer: 0
-        isCollapsed: 0
+        isCollapsed: 1
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
@@ -1525,7 +1598,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1543,7 +1616,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1555,31 +1628,13 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\CurrentMaximizeLayout.dwlt
-        label: CurrentMaximizeLayout.dwlt
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\CurrentMaximizeLayout.dwlt
-          fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentMaximizeLayout.dwlt
-          projectPath: Library\CurrentMaximizeLayout.dwlt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       - path: Library\EditorInstance.json
         label: EditorInstance.json
         level: 1
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1597,7 +1652,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1615,7 +1670,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1633,7 +1688,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1651,7 +1706,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1669,7 +1724,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1687,7 +1742,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1705,7 +1760,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1723,7 +1778,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1741,7 +1796,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1759,7 +1814,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1777,7 +1832,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1789,13 +1844,31 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+        label: 6fef83b8a4aba6840946a127cfa152d1.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+          fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+          projectPath: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library\ScriptAssemblies
         label: ScriptAssemblies
         level: 1
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1813,7 +1886,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1831,7 +1904,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1849,7 +1922,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1867,7 +1940,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -1879,27 +1952,45 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\StateCache\SceneView
-        label: SceneView
+      - path: obj
+        label: obj
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: obj\Debug
+        label: Debug
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+        label: Assembly-CSharp.csproj.CoreCompileInputs.cache
         level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\SceneView\a4e3d2-mainStage.json
-        label: a4e3d2-mainStage.json
-        level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -1909,33 +2000,15 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\StateCache\SceneView\a4e3d2-mainStage.json
-          fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a4e3d2-mainStage.json
-          projectPath: Library\StateCache\SceneView\a4e3d2-mainStage.json
+          path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+          fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+          projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: ProjectSettings
-        label: ProjectSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: ProjectSettings\QualitySettings.asset
-        label: QualitySettings.asset
-        level: 1
+      - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+        label: Assembly-CSharp.csprojAssemblyReference.cache
+        level: 2
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -1945,15 +2018,15 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: ProjectSettings\QualitySettings.asset
-          fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\QualitySettings.asset
-          projectPath: ProjectSettings\QualitySettings.asset
+          path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: ProjectSettings\UnityConnectSettings.asset
-        label: UnityConnectSettings.asset
-        level: 1
+      - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+        label: Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+        level: 2
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -1963,15 +2036,15 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: ProjectSettings\UnityConnectSettings.asset
-          fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\UnityConnectSettings.asset
-          projectPath: ProjectSettings\UnityConnectSettings.asset
+          path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+          fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+          projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Tank.sln
-        label: Tank.sln
-        level: 0
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        label: Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        level: 2
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -1981,9 +2054,9 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Tank.sln
-          fullPath: D:\Kuliah\simulasi\Tank\Tank.sln
-          projectPath: Tank.sln
+          path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1992,7 +2065,7 @@ MonoBehaviour:
         level: 0
         isFolder: 1
         isContainer: 0
-        isCollapsed: 0
+        isCollapsed: 1
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
@@ -2011,7 +2084,7 @@ MonoBehaviour:
         isFolder: 1
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -2029,7 +2102,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -2047,7 +2120,7 @@ MonoBehaviour:
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
-        isHidden: 0
+        isHidden: 1
         isActive: 0
         treeIsCheckable: 1
         checkState: 0
@@ -2059,74 +2132,68 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-        label: UnityTempFile-e5e02f9fc1896e546b52709a68688b58
+      - path: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+        label: UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
         level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 1
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+          fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+          projectPath: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      selectedNode:
+        path: 
+        label: 
+        level: 0
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 1
+        treeIsCheckable: 0
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-          fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-          projectPath: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      selectedNode:
-        path: Assets\Scenes\TankBehaviorScripts.cs
-        label: TankBehaviorScripts.cs
-        level: 2
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 1
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Scenes\TankBehaviorScripts.cs
-          fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs
-          projectPath: Assets\Scenes\TankBehaviorScripts.cs
+          path: 
+          fullPath: 
+          projectPath: 
           originalPath: 
           indexStatus: 0
-          workTreeStatus: 5
+          workTreeStatus: 0
     gitStatusEntries:
-    - path: Assembly-CSharp.csproj
-      fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp.csproj
-      projectPath: Assembly-CSharp.csproj
+    - path: .vs\Tank\v15\.suo
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\.suo
+      projectPath: .vs\Tank\v15\.suo
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Assets\Scenes\TankBehaviorScripts.cs
-      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs
-      projectPath: Assets\Scenes\TankBehaviorScripts.cs
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
       originalPath: 
       indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\Scenes\TankBehaviorScripts.cs.meta
-      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\TankBehaviorScripts.cs.meta
-      projectPath: Assets\Scenes\TankBehaviorScripts.cs.meta
+      workTreeStatus: 3
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
       originalPath: 
       indexStatus: 0
-      workTreeStatus: 5
+      workTreeStatus: 3
     - path: Assets\Scripts\TankBehaviorScripts.cs
       fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
       projectPath: Assets\Scripts\TankBehaviorScripts.cs
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Scripts\TankBehaviorScripts.cs.meta
-      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs.meta
-      projectPath: Assets\Scripts\TankBehaviorScripts.cs.meta
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Library\assetDatabase3
       fullPath: D:\Kuliah\simulasi\Tank\Library\assetDatabase3
       projectPath: Library\assetDatabase3
@@ -2136,12 +2203,6 @@ MonoBehaviour:
     - path: Library\CurrentLayout.dwlt
       fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentLayout.dwlt
       projectPath: Library\CurrentLayout.dwlt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\CurrentMaximizeLayout.dwlt
-      fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentMaximizeLayout.dwlt
-      projectPath: Library\CurrentMaximizeLayout.dwlt
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -2193,6 +2254,12 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
+    - path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+      projectPath: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
       fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\BuiltinAssemblies.stamp
       projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
@@ -2205,27 +2272,27 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\StateCache\SceneView\a4e3d2-mainStage.json
-      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a4e3d2-mainStage.json
-      projectPath: Library\StateCache\SceneView\a4e3d2-mainStage.json
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: ProjectSettings\QualitySettings.asset
-      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\QualitySettings.asset
-      projectPath: ProjectSettings\QualitySettings.asset
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: ProjectSettings\UnityConnectSettings.asset
-      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\UnityConnectSettings.asset
-      projectPath: ProjectSettings\UnityConnectSettings.asset
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
       originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Tank.sln
-      fullPath: D:\Kuliah\simulasi\Tank\Tank.sln
-      projectPath: Tank.sln
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
@@ -2241,21 +2308,21 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-      fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-      projectPath: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
+    - path: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+      fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+      projectPath: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    changedFilesText: 25 changed files
+    changedFilesText: 24 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-06-17T20:13:06.528+07:00
+      updatedTimeString: 2020-06-24T03:18:20.313+07:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-06-17T20:13:33.725+07:00
+      updatedTimeString: 2020-06-24T03:49:51.196+07:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-06-17T20:13:08.185+07:00
+      updatedTimeString: 2020-06-24T03:49:54.904+07:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -36038,13 +36105,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-06-17T20:13:06.528+07:00
+    updatedTimeString: 2020-06-24T03:18:20.313+07:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-06-17T20:13:06.682+07:00
+    updatedTimeString: 2020-06-24T03:18:21.686+07:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-06-17T20:13:33.725+07:00
+    updatedTimeString: 2020-06-24T03:49:51.196+07:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull

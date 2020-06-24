@@ -13,9 +13,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-17T20:14:22.414+07:00
-  initializedAtString: 2020-06-17T20:14:22.130+07:00
+  lastUpdatedAtString: 2020-06-24T08:04:51.047+07:00
+  initializedAtString: 2020-06-24T08:04:51.047+07:00
   log:
+  - commitID: b727a84c19d4e5e8466704e855923dc265f39634
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: 
+    timeString: 2020-06-17T20:14:32.000+07:00
+    commitTimeString: 2020-06-17T20:14:32.000+07:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\500b0c-mainStage.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\500b0c-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\500b0c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\a4e3d2-mainStage.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a4e3d2-mainStage.json
+      projectPath: Library\StateCache\SceneView\a4e3d2-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Kuliah\simulasi\Tank\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      projectPath: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 65461982781193732425ebab474eb2b1bbe5bd66
     mergeA: 
     mergeB: 

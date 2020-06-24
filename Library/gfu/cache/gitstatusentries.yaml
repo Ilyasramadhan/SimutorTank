@@ -13,9 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-17T20:14:22.569+07:00
-  initializedAtString: 2020-06-17T20:13:06.653+07:00
+  lastUpdatedAtString: 2020-06-24T08:04:54.247+07:00
+  initializedAtString: 2020-06-24T03:18:21.657+07:00
   entries:
+  - path: .vs\Tank\v15\.suo
+    fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\.suo
+    projectPath: .vs\Tank\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Tank\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Kuliah\simulasi\Tank\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Tank shell.prefab
+    fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs\Tank shell.prefab
+    projectPath: Assets\Prefabs\Tank shell.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Tank shell.prefab.meta
+    fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs\Tank shell.prefab.meta
+    projectPath: Assets\Prefabs\Tank shell.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GrakPeluruScripts.cs
+    fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\GrakPeluruScripts.cs
+    projectPath: Assets\Scripts\GrakPeluruScripts.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GrakPeluruScripts.cs.meta
+    fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\GrakPeluruScripts.cs.meta
+    projectPath: Assets\Scripts\GrakPeluruScripts.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TankBehaviorScripts.cs
+    fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
+    projectPath: Assets\Scripts\TankBehaviorScripts.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\assetDatabase3
     fullPath: D:\Kuliah\simulasi\Tank\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -70,6 +130,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -82,6 +148,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+    fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+    projectPath: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+    fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+    projectPath: Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\74\74489f50d295d1846bf11563bfd655f4.info
+    fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\74\74489f50d295d1846bf11563bfd655f4.info
+    projectPath: Library\metadata\74\74489f50d295d1846bf11563bfd655f4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+    fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+    projectPath: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+    fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+    projectPath: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -94,18 +190,168 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache\7\7f663ee2a678b0333d20085a3160fb58.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\7\7f663ee2a678b0333d20085a3160fb58.bin
+    projectPath: Library\ShaderCache\7\7f663ee2a678b0333d20085a3160fb58.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8f42f182b0186760b42cc38f77b1c5ae.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\8\8f42f182b0186760b42cc38f77b1c5ae.bin
+    projectPath: Library\ShaderCache\8\8f42f182b0186760b42cc38f77b1c5ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be9f5d0f05a405ed8abdb4931a27aec3.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\b\be9f5d0f05a405ed8abdb4931a27aec3.bin
+    projectPath: Library\ShaderCache\b\be9f5d0f05a405ed8abdb4931a27aec3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cabcc705fea2984fb8fd1e869cc98815.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\c\cabcc705fea2984fb8fd1e869cc98815.bin
+    projectPath: Library\ShaderCache\c\cabcc705fea2984fb8fd1e869cc98815.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e71187c66f8c60f1dbebe8ae3949eed5.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\e\e71187c66f8c60f1dbebe8ae3949eed5.bin
+    projectPath: Library\ShaderCache\e\e71187c66f8c60f1dbebe8ae3949eed5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f89104a618b78b5b012a6d4d5039f321.bin
+    fullPath: D:\Kuliah\simulasi\Tank\Library\ShaderCache\f\f89104a618b78b5b012a6d4d5039f321.bin
+    projectPath: Library\ShaderCache\f\f89104a618b78b5b012a6d4d5039f321.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+    projectPath: Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\StateCache\Hierarchy\500b0c-mainStage.json
     fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\500b0c-mainStage.json
     projectPath: Library\StateCache\Hierarchy\500b0c-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\66686b-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\66686b-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\66686b-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\ab323c-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\ab323c-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\ab323c-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\789575-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\789575-mainStage.json
+    projectPath: Library\StateCache\SceneView\789575-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\9c5e27-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\9c5e27-mainStage.json
+    projectPath: Library\StateCache\SceneView\9c5e27-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\a4e3d2-75e71b1abe0f439469.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a4e3d2-75e71b1abe0f439469.json
+    projectPath: Library\StateCache\SceneView\a4e3d2-75e71b1abe0f439469.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\StateCache\SceneView\a4e3d2-mainStage.json
     fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a4e3d2-mainStage.json
     projectPath: Library\StateCache\SceneView\a4e3d2-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\a6fc04-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\a6fc04-mainStage.json
+    projectPath: Library\StateCache\SceneView\a6fc04-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\c02d45-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\c02d45-mainStage.json
+    projectPath: Library\StateCache\SceneView\c02d45-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\ed33ce-mainStage.json
+    fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\ed33ce-mainStage.json
+    projectPath: Library\StateCache\SceneView\ed33ce-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\Kuliah\simulasi\Tank\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\Kuliah\simulasi\Tank\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -124,9 +370,147 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
-    projectPath: Temp\UnityTempFile-e5e02f9fc1896e546b52709a68688b58
+  - path: Temp\UnityTempFile-00ca1c11237930740a6318accbcb4314
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-00ca1c11237930740a6318accbcb4314
+    projectPath: Temp\UnityTempFile-00ca1c11237930740a6318accbcb4314
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+    projectPath: Temp\UnityTempFile-07daeb2bb728c6f46a221709f3653ce5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d874021a4ee73a4c9febae98e7e2586
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-0d874021a4ee73a4c9febae98e7e2586
+    projectPath: Temp\UnityTempFile-0d874021a4ee73a4c9febae98e7e2586
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-119e8382faffb3c4dbb918d80bb77ad4
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-119e8382faffb3c4dbb918d80bb77ad4
+    projectPath: Temp\UnityTempFile-119e8382faffb3c4dbb918d80bb77ad4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1bed9ef358282b546a8cfce908207590
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-1bed9ef358282b546a8cfce908207590
+    projectPath: Temp\UnityTempFile-1bed9ef358282b546a8cfce908207590
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-286075aec998e5349bdd25e4a15dcf83
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-286075aec998e5349bdd25e4a15dcf83
+    projectPath: Temp\UnityTempFile-286075aec998e5349bdd25e4a15dcf83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2fe61f3cc3efc6a478b6a841138e57d8
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-2fe61f3cc3efc6a478b6a841138e57d8
+    projectPath: Temp\UnityTempFile-2fe61f3cc3efc6a478b6a841138e57d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3018936ee28887c4d9c64d737224f3ac
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-3018936ee28887c4d9c64d737224f3ac
+    projectPath: Temp\UnityTempFile-3018936ee28887c4d9c64d737224f3ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-33604eb11cc25c44a9a904b0f516373e
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-33604eb11cc25c44a9a904b0f516373e
+    projectPath: Temp\UnityTempFile-33604eb11cc25c44a9a904b0f516373e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3650dd9e61f4e61409fb8ad82182bcf5
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-3650dd9e61f4e61409fb8ad82182bcf5
+    projectPath: Temp\UnityTempFile-3650dd9e61f4e61409fb8ad82182bcf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43ca69c3ae6299846aac452af10a8d33
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-43ca69c3ae6299846aac452af10a8d33
+    projectPath: Temp\UnityTempFile-43ca69c3ae6299846aac452af10a8d33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5cbf2a6a236e9784e894ce5dafcb6c0e
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-5cbf2a6a236e9784e894ce5dafcb6c0e
+    projectPath: Temp\UnityTempFile-5cbf2a6a236e9784e894ce5dafcb6c0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-61d7e9f42bb93e44c847a8b92ae5c5f9
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-61d7e9f42bb93e44c847a8b92ae5c5f9
+    projectPath: Temp\UnityTempFile-61d7e9f42bb93e44c847a8b92ae5c5f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6e24b7eb5c348c544acee7ef3fa8ff33
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-6e24b7eb5c348c544acee7ef3fa8ff33
+    projectPath: Temp\UnityTempFile-6e24b7eb5c348c544acee7ef3fa8ff33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-74ac909a612a74f4191f700e7ddf8fc4
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-74ac909a612a74f4191f700e7ddf8fc4
+    projectPath: Temp\UnityTempFile-74ac909a612a74f4191f700e7ddf8fc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-782a820f2f5174a4c988901cb8578a8d
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-782a820f2f5174a4c988901cb8578a8d
+    projectPath: Temp\UnityTempFile-782a820f2f5174a4c988901cb8578a8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-998396e8a49ea124aabae40f49f44688
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-998396e8a49ea124aabae40f49f44688
+    projectPath: Temp\UnityTempFile-998396e8a49ea124aabae40f49f44688
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d98a07f2ca42114eb54a3c4bd0b8182
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-9d98a07f2ca42114eb54a3c4bd0b8182
+    projectPath: Temp\UnityTempFile-9d98a07f2ca42114eb54a3c4bd0b8182
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f4b0bbed62eef24cbe4b1df80ef4714
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-9f4b0bbed62eef24cbe4b1df80ef4714
+    projectPath: Temp\UnityTempFile-9f4b0bbed62eef24cbe4b1df80ef4714
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b35c928b32557484187bff8df49f1f80
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-b35c928b32557484187bff8df49f1f80
+    projectPath: Temp\UnityTempFile-b35c928b32557484187bff8df49f1f80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b6c5e422734f719479887ff7df19152c
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-b6c5e422734f719479887ff7df19152c
+    projectPath: Temp\UnityTempFile-b6c5e422734f719479887ff7df19152c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dfb28c285671c6d4e9fbe2ede83a6955
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-dfb28c285671c6d4e9fbe2ede83a6955
+    projectPath: Temp\UnityTempFile-dfb28c285671c6d4e9fbe2ede83a6955
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e4a40eb3f5f5431448a67b0722dc8460
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-e4a40eb3f5f5431448a67b0722dc8460
+    projectPath: Temp\UnityTempFile-e4a40eb3f5f5431448a67b0722dc8460
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff9ff9644e261e64d901bef91f5ffef8
+    fullPath: D:\Kuliah\simulasi\Tank\Temp\UnityTempFile-ff9ff9644e261e64d901bef91f5ffef8
+    projectPath: Temp\UnityTempFile-ff9ff9644e261e64d901bef91f5ffef8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
