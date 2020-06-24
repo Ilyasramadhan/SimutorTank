@@ -11,6 +11,10 @@ public class GrakPeluruScripts : MonoBehaviour
     private float _sudutTembak;
     private float _sudutMeriam;
     private Vector3 _posisiAwal;
+    private AudioSource audioSource;
+
+    public GameObject ledakan;
+    public AudioClip audioLedakan;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +28,8 @@ public class GrakPeluruScripts : MonoBehaviour
         _sudutMeriam = tankBehavior.sudutMeriam;
 
         _posisiAwal = myTransform.position;
+
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -45,5 +51,16 @@ public class GrakPeluruScripts : MonoBehaviour
         return new Vector3(_x, _y, _z);
     }
 
-    
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "Land")
+        {
+            GameObject go = Instantiate(ledakan, myTransform.position, Quaternion.identity);
+            Destroy(go, 3f);
+
+            audioSource.PlayOneShot(audioLedakan);
+
+            Destroy(this.gameObject, 3f);
+        }
+    }
 }

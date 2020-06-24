@@ -16,7 +16,7 @@ public class TankBehaviorScripts : MonoBehaviour
     public float nilaiRotasiY;
     public float kecepatanAwalPeluru = 20;
     public GameObject objekTembakan;
-    public GameObject objekledakan;
+    public GameObject objekLedakan;
     public GameObject peluruMeriam;
     public AudioClip audioTembakan;
     public AudioClip audioLedakan;

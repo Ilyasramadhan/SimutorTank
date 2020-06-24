@@ -13,9 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-24T08:05:26.202+07:00
+  lastUpdatedAtString: 2020-06-24T08:06:11.431+07:00
   initializedAtString: 2020-06-24T08:04:51.047+07:00
   log:
+  - commitID: 7ed9d9371e4433e98cbb12c22437fa95a4b65d7d
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: init
+    description: 
+    timeString: 2020-06-24T08:05:38.000+07:00
+    commitTimeString: 2020-06-24T08:05:38.000+07:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 1b9cd3b46097a7838d243780cda5e3f1e316de20
     mergeA: 
     mergeB: 
