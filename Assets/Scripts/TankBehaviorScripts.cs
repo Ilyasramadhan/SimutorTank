@@ -11,10 +11,12 @@ public class TankBehaviorScripts : MonoBehaviour
     private AudioSource audioSource;
 
     public float kecepatanRotasi = 20;
-    public float sudutMeriam;
-    [HideInInspector]
-    public float nilaiRotasiY;
     public float kecepatanAwalPeluru = 20;
+    public float gravity = 10;
+
+    [HideInInspector] public float sudutMeriam;
+    [HideInInspector] public float nilaiRotasiY;
+  
     public GameObject objekTembakan;
     public GameObject objekLedakan;
     public GameObject peluruMeriam;

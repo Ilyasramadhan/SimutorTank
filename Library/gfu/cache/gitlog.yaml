@@ -13,9 +13,285 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-24T08:06:11.431+07:00
-  initializedAtString: 2020-06-24T08:04:51.047+07:00
+  lastUpdatedAtString: 2020-06-24T09:02:48.987+07:00
+  initializedAtString: 2020-06-24T09:02:32.903+07:00
   log:
+  - commitID: 96934bf73db2f8b0ddd290571f0888e64493c17b
+    mergeA: 
+    mergeB: 
+    authorName: Ilyasramadhan
+    authorEmail: ilyasrammadhan@gmail.com
+    commitEmail: ilyasrammadhan@gmail.com
+    commitName: Ilyasramadhan
+    summary: initial
+    description: 
+    timeString: 2020-06-24T09:02:31.000+07:00
+    commitTimeString: 2020-06-24T09:02:31.000+07:00
+    changes:
+    - path: .vs\Tank\v15\.suo
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\.suo
+      projectPath: .vs\Tank\v15\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\Kuliah\simulasi\Tank\.vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Tank\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Tank shell.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Prefabs\Tank shell.prefab
+      projectPath: Assets\Prefabs\Tank shell.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GrakPeluruScripts.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\GrakPeluruScripts.cs
+      projectPath: Assets\Scripts\GrakPeluruScripts.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\TankBehaviorScripts.cs
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Scripts\TankBehaviorScripts.cs
+      projectPath: Assets\Scripts\TankBehaviorScripts.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      fullPath: D:\Kuliah\simulasi\Tank\Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      projectPath: Assets\Tank Asset Multimedia\Explosion\Explosion_v1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\Kuliah\simulasi\Tank\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\Kuliah\simulasi\Tank\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\Kuliah\simulasi\Tank\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+      projectPath: Library\StateCache\Hierarchy\500b0c-75e71b1abe0f439469.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\500b0c-mainStage.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\500b0c-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\500b0c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\9de8b4-75e71b1abe0f439469.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\9de8b4-75e71b1abe0f439469.json
+      projectPath: Library\StateCache\Hierarchy\9de8b4-75e71b1abe0f439469.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\9de8b4-mainStage.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\Hierarchy\9de8b4-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\9de8b4-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\caed0c-75e71b1abe0f439469.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\caed0c-75e71b1abe0f439469.json
+      projectPath: Library\StateCache\SceneView\caed0c-75e71b1abe0f439469.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\caed0c-mainStage.json
+      fullPath: D:\Kuliah\simulasi\Tank\Library\StateCache\SceneView\caed0c-mainStage.json
+      projectPath: Library\StateCache\SceneView\caed0c-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Kuliah\simulasi\Tank\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Kuliah\simulasi\Tank\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      projectPath: Library\metadata\6f\6fef83b8a4aba6840946a127cfa152d1
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+      projectPath: Library\metadata\74\74489f50d295d1846bf11563bfd655f4
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+      projectPath: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+      projectPath: Library\metadata\75\75e71b1abe0f439469c9efc7f36b377a.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3
+      projectPath: Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3.info
+      fullPath: D:\Kuliah\simulasi\Tank\Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3.info
+      projectPath: Library\metadata\c7\c76699131d6c1f24ea9d0980d05b1ae3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\Kuliah\simulasi\Tank\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Kuliah\simulasi\Tank\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 7ed9d9371e4433e98cbb12c22437fa95a4b65d7d
     mergeA: 
     mergeB: 
